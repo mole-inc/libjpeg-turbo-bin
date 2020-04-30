@@ -1,3 +1,11 @@
+vendor/*.exe
+vendor/*.dll
+vendor/cjpeg
+vendor/djpeg
+vendor/jpegtran
+vendor/rdjpgcom
+vendor/wrdjpgcom
+
 # Logs
 logs
 *.log
